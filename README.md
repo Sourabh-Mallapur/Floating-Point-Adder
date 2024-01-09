@@ -1,4 +1,4 @@
-# OPEN SOURCE ASIC DESIGN
+# Open Source ASIC/IC Design Flow
 This Repo contains details of designing and implementing a 32 bit (Single Precision)Floating point adder and 32 bit (Single Precision) Floating point multiplier module using Open source ASIC/IC Design tools
 
 # IEEE 754 floating point Representation
@@ -18,5 +18,7 @@ The exponent field needs to represent both positive and negative exponents. A bi
 
 The Normalised Mantissa –
 The mantissa is part of a number in scientific notation or a floating-point number, consisting of its significant digits. Here we have only 2 digits, i.e. O and 1. So a normalised mantissa is one with only one 1 to the left of the decimal.
+
+![IEEE 754](https://github.com/Sourabh-Mallapur/Open-Source-ASIC-IC-Design-Flow/edit/main/assets/ieee754.png)
 
 # Design of Floating Point Adder in Verilog 
