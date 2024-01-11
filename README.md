@@ -14,7 +14,7 @@ F is also called Mantissa and E is also called Exponent
 
 - The Biased exponent – The exponent field needs to represent both positive and negative exponents. A bias is added to the actual exponent in order to get the stored exponent.
 
-- The Normalised Mantissa –The mantissa is part of a number in scientific notation or a floating-point number, consisting of its significant digits. Here we have only 2 digits, i.e. O and 1. So a normalised mantissa is one with only one 1 to the left of the decimal.
+- The Normalised Mantissa – The mantissa is part of a number in scientific notation or a floating-point number, consisting of its significant digits. Here we have only 2 digits, i.e. O and 1. So a normalised mantissa is one with only one 1 to the left of the decimal.
 
 ![IEEE 754](https://github.com/Sourabh-Mallapur/Open-Source-ASIC-IC-Design-Flow/blob/main/assets/IEEE%20754.drawio.png)
 
