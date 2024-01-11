@@ -1,5 +1,5 @@
 # Open Source ASIC/IC Design Flow
-This Repo contains details of designing and implementing a 32 bit (Single Precision)Floating point adder and 32 bit (Single Precision) Floating point multiplier module using Open source ASIC/IC Design tools
+This Repo contains details of designing and implementing a 32 bit (Single Precision) Floating point adder and 32 bit (Single Precision) Floating point multiplier module using Open source ASIC/IC Design tools
 
 ## IEEE 754 floating point Representation
 Representation of Floating-Point Numbers
