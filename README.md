@@ -4,7 +4,7 @@ This Repo contains details of designing and implementing a 32 bit (Single Precis
 ## IEEE 754 floating point Representation
 Representation of Floating-Point Numbers
 
-A simple representation of a floating-point (or real) number (N) uses a fraction (F), base (B), and exponent (E), where N = F x B ^E^
+A simple representation of a floating-point (or real) number (N) uses a fraction (F), base (B), and exponent (E), where N = F x B<sup>E</sup>
 
 F is also called Mantissa and E is also called Exponent
 
