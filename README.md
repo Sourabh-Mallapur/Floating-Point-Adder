@@ -1,5 +1,5 @@
 # Floating Point Adder
-This Repo contains details of designing and implementing a 32 bit (Single Precision) Floating point adder and 32 bit (Single Precision) Floating point multiplier module using Open source ASIC/IC Design tools
+This Repo contains details of designing and implementing a 32 bit (Single Precision) Floating point Adder module using Open source ASIC/IC Design tools
 
 ## IEEE 754 floating point Representation
 Representation of Floating-Point Numbers
@@ -19,3 +19,4 @@ F is also called Mantissa and E is also called Exponent
 ![IEEE 754](https://github.com/Sourabh-Mallapur/Open-Source-ASIC-IC-Design-Flow/blob/main/assets/IEEE%20754.drawio.png)
 
 ## Design of Floating Point Adder in Verilog 
+
