@@ -1,4 +1,4 @@
-# Open Source ASIC/IC Design Flow
+# Floating-Point Adder and Multiplier in Verilog
 This Repo contains details of designing and implementing a 32 bit (Single Precision) Floating point adder and 32 bit (Single Precision) Floating point multiplier module using Open source ASIC/IC Design tools
 
 ## IEEE 754 floating point Representation
