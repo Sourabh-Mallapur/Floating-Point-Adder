@@ -20,3 +20,6 @@ F is also called Mantissa and E is also called Exponent
 
 ## Design of Floating Point Adder in Verilog 
 
+The design consists of a FSMD based design, each stage being driven by a closck, making it easy to integrate into other clock based modules (eg. ALU).
+
+## 
