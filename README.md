@@ -23,3 +23,5 @@ F is also called Mantissa and E is also called Exponent
 The design consists of a FSMD based design, each stage being driven by a closck, making it easy to integrate into other clock based modules (eg. ALU).
 
 ## Flowchart for Floating-Point Addition
+
+![flowchart](https://github.com/Sourabh-Mallapur/Open-Source-ASIC-IC-Design-Flow/blob/main/assets/flowchartpng)
