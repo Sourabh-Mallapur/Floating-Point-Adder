@@ -25,3 +25,7 @@ The design consists of a FSMD based design, each stage being driven by a closck,
 ## Flowchart for Floating-Point Addition
 
 ![flowchart](https://github.com/Sourabh-Mallapur/Open-Source-ASIC-IC-Design-Flow/blob/main/assets/flowchart.png)
+
+## Code
+
+## Simulation
