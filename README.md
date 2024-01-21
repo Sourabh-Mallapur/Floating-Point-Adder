@@ -28,6 +28,9 @@ The design consists of a FSMD based design, each stage being driven by a closck,
 
 ##Code
 
-![codesnippet](https://github.com/Sourabh-Mallapur/Open-Source-ASIC-IC-Design-Flow/blob/main/fpadder2.v)
+```
+
+
+```
 
 ## Simulation
